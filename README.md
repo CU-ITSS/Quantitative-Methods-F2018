@@ -1,6 +1,6 @@
 # Web Data Scraping
 
-Fall 2019 ITSS Quantitative Methods Workshop
+Fall 2018 ITSS Quantitative Methods Workshop
 [Brian C. Keegan, Ph.D.](http://brianckeegan.com/)  
 [Assistant Professor, Department of Information Science](https://www.colorado.edu/cmci/people/information-science/brian-c-keegan)  
 University of Colorado Boulder  
